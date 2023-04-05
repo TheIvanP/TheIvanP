@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TheIvanP
-- 👀 I’m interested in building distributed data pipelines
-- 🌱 I’m currently learning NEON for aarch, kubernetes and databases
 - 📫 How to reach me ivanpedersen79@gmail.com
 
 <!---
